@@ -7,5 +7,5 @@ https://clone-14d34.web.app
 
 ## Used Resources
 * React JS
-* Firebase (Hosting and Database)
+* Firebase (Hosting, Database and Google log in)
 * Javascript, HTML, CSS
