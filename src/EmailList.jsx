@@ -54,6 +54,7 @@ function EmailList() {
         <Section Icon={LocalOfferIcon} title="promotions" color="green" />
       </div>
       <div className="emailList__list">
+        <EmailRow title="Happy Birthday!!!" subject="Hey how are you?" description="test mesdd r werwqw eqwe wddddd wd wd qw dqwd qw wqsage" time="24 December 2020, 15:45" />
         <EmailRow title="Happy Birthday!!!" subject="Hey how are you?" description="test message" time="24 December 2020, 15:45" />
       </div>
     </div>
