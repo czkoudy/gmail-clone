@@ -25,14 +25,23 @@
   padding: 5px;
 }
 
-.sidebarOption:hover > p {
+.sidebarOption:hover > p,
+.sidebar--active > p {
   display: inline;
 }
 
 .sidebarOption:hover,
 .sidebarOption:hover > p,
-.sidebarOption:hover > h3 {
+.sidebarOption:hover > h3,
+.sidebar--active,
+.sidebar--active > p,
+.sidebar--active > h3 {
   background-color: #fcecec;
   color: #c04b37;
   font-weight: 800;
+}
+
+.sidebar__footer {
+  display: flex;
+  justify-content: center;
 }
