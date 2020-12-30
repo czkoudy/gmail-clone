@@ -1,6 +1,8 @@
-# Gmail CLone created using React
+# Gmail Clone created using React
 
-This has been created using ReactJS
+This has been created using ReactJS.
+
+After login with your gmail you will see a pretty good clone of gmail app.
 
 ##Live deploy
 https://clone-14d34.web.app
